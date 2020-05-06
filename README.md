@@ -1,4 +1,2 @@
 #Git tutorial
-
-  
   - fix-B
